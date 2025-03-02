@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy **Jedidiah Ezequiel**, Desarrollador Full Stack Jr.
+### ¡Hola! 👋 Soy **Jedidiah Ezequiel**, Desarrollador Full Stack.
 
 👨‍💻 **Sobre mí:**
 - Ingeniero en Sistemas Computacionales con experiencia en desarrollo full stack.
