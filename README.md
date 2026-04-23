@@ -4,7 +4,7 @@
 
 Soy un desarrollador enfocado en la construcción de **APIs robustas, servicios backend escalables y arquitectura de sistemas**. Me apasiona diseñar soluciones eficientes, seguras y mantenibles para aplicaciones modernas.
 
-Trabajo principalmente con **Node.js, NestJS y Java con Spring Boot**, desarrollando **APIs REST y GraphQL**, sistemas con autenticación segura y procesamiento de tareas en segundo plano.
+Trabajo principalmente con **Node.js, NestJS y Java con Spring Boot**, desarrollando **APIs REST**, sistemas con autenticación segura y procesamiento de tareas en segundo plano.
 
 Actualmente estoy profundizando en **arquitectura backend, procesamiento asíncrono, contenedores y despliegues en la nube**.
 
