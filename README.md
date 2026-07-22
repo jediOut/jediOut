@@ -1,101 +1,46 @@
-# 👋 ¡Hola! Soy Jedidiah Ezequiel
+# Hola, soy Jedidiah Viera
 
-💻 **Desarrollador Backend | Ingeniero en Sistemas Computacionales**
+**Full Stack Developer | TypeScript · NestJS · Next.js · React Native/Expo · AWS**
 
-Soy un desarrollador enfocado en la construcción de **APIs robustas, servicios backend escalables y arquitectura de sistemas**. Me apasiona diseñar soluciones eficientes, seguras y mantenibles para aplicaciones modernas.
+Construyo productos web y móviles con especial atención al backend, la seguridad y la mantenibilidad. Trabajo con APIs REST y GraphQL, procesamiento asíncrono, pagos, infraestructura como código y despliegues automatizados.
 
-Trabajo principalmente con **Node.js, NestJS y Java con Spring Boot**, desarrollando **APIs REST**, sistemas con autenticación segura y procesamiento de tareas en segundo plano.
+## Proyecto principal
 
-Actualmente estoy profundizando en **arquitectura backend, procesamiento asíncrono, contenedores y despliegues en la nube**.
+### [RapiV](https://github.com/jediOut/RapiV)
 
----
+Plataforma de pedidos y entregas formada por un backend NestJS y aplicaciones Expo independientes para clientes, negocios y repartidores.
 
-# 🚀 Stack Tecnológico
+- NestJS, TypeScript, PostgreSQL, TypeORM, Redis y BullMQ
+- Autenticación JWT, roles, DTOs, migraciones y transacciones
+- Stripe Connect, notificaciones push y almacenamiento en AWS S3
+- Docker, Terraform, Prometheus, Loki y Grafana
+- Contratos TypeScript compartidos entre backend y aplicaciones
 
-## Lenguajes
-- Java
-- TypeScript
-- JavaScript
+## Otros proyectos destacados
 
-## Backend
-- Node.js
-- NestJS
-- Express
-- Spring Boot
-- GraphQL
-- REST APIs
+- [Ecommerce Coffee](https://github.com/jediOut/ecommerce-coffe-fr): tienda con Next.js, TypeScript, Zustand, Stripe y Strapi.
+- [Arquitectura serverless con Terraform](https://github.com/jediOut/terraform-layered-serverless-architecture): Lambda, API Gateway, DynamoDB, CodeDeploy, CloudWatch y GitHub Actions con OIDC.
+- [Sistema de exámenes](https://github.com/jediOut/sistema-examenes): aplicación full stack con Spring Boot, Angular, MySQL, JWT y autorización por roles.
+- [API GraphQL con NestJS](https://github.com/jediOut/nestjs-graphql-queries-mutations): autores y publicaciones con GraphQL, TypeORM, validación y MySQL.
 
-## Bases de Datos
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
+## Stack
 
-## Herramientas
-- Docker
-- Git
-- GitHub
-- Swagger / OpenAPI
-- JWT
-- TypeORM
-- Maven
+- **Frontend:** Next.js, React, React Native, Expo, Angular, Tailwind CSS
+- **Backend:** NestJS, Node.js, Spring Boot, REST, GraphQL
+- **Datos:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+- **Cloud y DevOps:** AWS, Terraform, Docker, GitHub Actions, OIDC, Prometheus, Grafana
+- **Calidad:** TypeScript, DTOs, validación, pruebas, CI/CD y documentación de arquitectura
 
----
+## Desarrollo asistido por IA
 
-# 📊 Estadísticas de GitHub
+Utilizo herramientas de IA como apoyo para explorar alternativas de arquitectura, investigar errores, proponer casos de prueba, revisar riesgos y acelerar documentación. Las propuestas se validan mediante revisión manual, type checking, pruebas automatizadas y ejecución del producto; la responsabilidad de las decisiones y del código final sigue siendo mía.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jediOut&show_icons=true&theme=tokyonight)
+Actualmente continúo profundizando en arquitectura de sistemas, AWS, observabilidad, procesamiento asíncrono e inglés para equipos internacionales.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jediOut&layout=compact&theme=tokyonight)
+## Contacto
 
----
+- [LinkedIn](https://www.linkedin.com/in/jedidiah-viera-martinez-b04170257)
+- [GitHub](https://github.com/jediOut)
+- Correo: `jedi.viera@gmail.com`
 
-# 📌 Proyectos Destacados
-
-### 🔹 API GraphQL con NestJS
-API para gestionar autores y publicaciones utilizando **NestJS, GraphQL y TypeORM** con MySQL. Incluye validación de datos mediante **DTOs y Pipes**.
-
-### 🔹 Backend Ecommerce con Stripe
-Backend para plataforma ecommerce con integración de **Stripe** para pagos seguros, manejo de productos, órdenes y usuarios.
-
-### 🔹 Sistema de Cuestionarios
-Sistema desarrollado con **Spring Boot** con autenticación mediante **JWT**, control de acceso y APIs seguras.
-
----
-
-# 📚 Actualmente Aprendiendo
-
-- Arquitectura de sistemas backend
-- Procesamiento de trabajos en segundo plano (queues y workers)
-- Infraestructura en la nube (AWS)
-- Contenedores y despliegues con Docker
-- CI/CD para automatización de pipelines
-- Inglés para equipos internacionales
-
----
-
-# 🧠 Intereses Técnicos
-
-- Arquitectura de APIs
-- Sistemas distribuidos
-- Procesamiento asíncrono
-- Optimización de bases de datos
-- Diseño de microservicios
-
----
-
-# 📫 Contacto
-
-💼 LinkedIn  
-https://www.linkedin.com/in/jedidiah-viera-martinez-b04170257
-
-🐙 GitHub  
-https://github.com/jediOut
-
-📧 Correo  
-jedi.viera@gmail.com
-
----
-
-⭐ Siempre abierto a oportunidades como **Backend Developer**.
-
+Abierto a oportunidades como **Full Stack Developer** y **Backend Developer**.
